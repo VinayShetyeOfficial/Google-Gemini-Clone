@@ -49,7 +49,7 @@ For suggestions or support, please open an issue or pull request.
 
 2. Navigate to the project directory:
    ```bash
-    cd Google-Keep-Clone
+    cd Google-Gemini-Clone
    ```
    
 3. Install dependencies:
