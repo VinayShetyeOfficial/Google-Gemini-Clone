@@ -15,7 +15,7 @@
 Live Site URL: [Preview](https://664ffed898cedbb966339ad4--luminous-douhua-286200.netlify.app/)
 
 ## Description
-`Google-Gemini-Clone` is a React-based application that emulates the search functionality of Google. It allows users to send queries, receive responses, and upload images for a visual search experience.
+`Google-Gemini-Clone` is a React-based application that emulates the search functionality of Google. It al lows users to send queries, receive responses, and upload images for a visual search experience.
 
 ## Features
 
