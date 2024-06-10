@@ -5,7 +5,7 @@
 ![Screenshot 2024-05-23 225628](https://github.com/VinayShetyeOfficial/Google-Gemini-Clone/assets/100470361/cef69215-7df2-4939-bc5d-fbd7aec4f105) 
 
 ![Screenshot 2024-05-23 225703](https://github.com/VinayShetyeOfficial/Google-Gemini-Clone/assets/100470361/65c93f74-4a90-478d-9391-53b92885a4f3)
-
+ 
 ![Screenshot 2024-05-23 230349](https://github.com/VinayShetyeOfficial/Google-Gemini-Clone/assets/100470361/edb7954e-a6c8-4456-a2fe-3fe834b6a204)
 
 ![Screenshot 2024-05-23 230728](https://github.com/VinayShetyeOfficial/Google-Gemini-Clone/assets/100470361/b6a9f059-a1cf-4c50-8efb-2eeb8e01bab6)
