@@ -1,4 +1,4 @@
-# Gemini Clone 🌟   
+# Gemini Clone 🌟    
          
 #### A qucik Sneek Peak 👀                    
          
