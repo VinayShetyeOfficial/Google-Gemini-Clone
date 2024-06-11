@@ -1,7 +1,7 @@
 # Gemini Clone 🌟  
        
 #### A qucik Sneek Peak 👀                 
-        
+         
 ![Screenshot 2024-05-23 225628](https://github.com/VinayShetyeOfficial/Google-Gemini-Clone/assets/100470361/cef69215-7df2-4939-bc5d-fbd7aec4f105) 
 
 ![Screenshot 2024-05-23 225703](https://github.com/VinayShetyeOfficial/Google-Gemini-Clone/assets/100470361/65c93f74-4a90-478d-9391-53b92885a4f3)
