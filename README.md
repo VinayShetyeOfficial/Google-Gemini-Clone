@@ -10,7 +10,7 @@
 
 ![Screenshot 2024-05-23 230728](https://github.com/VinayShetyeOfficial/Google-Gemini-Clone/assets/100470361/b6a9f059-a1cf-4c50-8efb-2eeb8e01bab6)
    
-     
+      
 ### Links    
 Live Site URL: [Preview](https://664ffed898cedbb966339ad4--luminous-douhua-286200.netlify.app/)
  
