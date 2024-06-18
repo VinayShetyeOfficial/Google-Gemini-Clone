@@ -18,7 +18,7 @@ Live Site URL: [Preview](https://664ffed898cedbb966339ad4--luminous-douhua-28620
 `Google-Gemini-Clone` is a React-based application that emulates the search functionality of Google. It al lows users to send queries, receive responses, and upload images for a visual search experience.
 
 ## Features
-
+ 
 - **Search Functionality:** Users can send queries and receive accurate responses.
 - **Image Upload:** Users can upload images to conduct visual searches.
 - **Responsive Design:** The application is designed to be fully responsive across various devices and screen sizes.
